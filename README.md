@@ -9,6 +9,12 @@
 
 </div>
 
+---
+
+<p align="center"> A simple command-line tool for compressing files using Gzip compression.
+    <br>
+</p>
+
 ## Features
 
 - Compresses files using Gzip compression.
